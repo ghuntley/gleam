@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gleam-lang/gleam)
+
 <p align="center">
   <img src="images/gleam-logo-readme.png" alt="Gleam logo">
 </p>
